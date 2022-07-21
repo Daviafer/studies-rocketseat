@@ -1,0 +1,13 @@
+- Sincrono 	= um após o outro
+- Assíncrono 	= todos no mesmo tempo
+- Callback	= chame de volta - uma função que é passada como argumento pra uma outra função e depois de determinado tempo é chamada de volta
+- setTimeout	= é uma Callback. É uma função que recebe como argumento uma outra função e um tempo para ser executada.
+- conectar API com HTTPS e Callback
+
+- Promise (pending, fulfilled, rejected e settled)	= é um objeto do JS com a promessa de que algo será realizado. Usado em operações assíncronas (carregar um arquivo, leitura de dados de uma API)
+- - Pending	= estado inicial
+- - Fulfilled	= a promessa foi concluída com sucesso
+- - Rejected	= a promossa foi rejeitada, houve erro
+- - Settled	= seja com o sucesso ou com erro, ela foi finalmente concluída.
+
+
